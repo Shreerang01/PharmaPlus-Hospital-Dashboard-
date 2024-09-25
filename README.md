@@ -58,7 +58,3 @@ The dashboard features four main graphs to visualize key metrics:
 
 ### Conclusion
 This Power BI dashboard provides a comprehensive view of the hospital's operations, offering insights that can drive better decision-making in terms of resource management, patient care, and operational efficiency.
-
----
-
-This report gives a clear summary of your project and should work well for your GitHub README. You can also include screenshots of the dashboard for visual reference.
